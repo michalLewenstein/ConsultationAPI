@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZOSYTXEN0Nd9rKEryH9RhEarFIJjjtOf+KLZWduKSOs=",
+  "Source": "CounselingSessionsAPI",
+  "BasePath": "_content/CounselingSessionsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

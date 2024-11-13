@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounselingSessionsAPI", "CounselingSessionsAPI\CounselingSessionsAPI.csproj", "{ACDB2FA2-FC9F-4119-ACE2-27AD2F31A1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDB2FA2-FC9F-4119-ACE2-27AD2F31A1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDB2FA2-FC9F-4119-ACE2-27AD2F31A1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDB2FA2-FC9F-4119-ACE2-27AD2F31A1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDB2FA2-FC9F-4119-ACE2-27AD2F31A1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD34D524-1234-49D0-973D-BD6D118650A0}
+	EndGlobalSection
+EndGlobal
